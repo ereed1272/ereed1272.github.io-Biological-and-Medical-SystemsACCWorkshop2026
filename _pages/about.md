@@ -113,3 +113,4 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 **4:30 – 5:00 PM**  
 **Panel Discussion and Closing Remarks**
 
+*More details to follow soon!*
