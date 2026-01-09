@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-##Abstract: This workshop aims to bring together researchers working across disciplines to uncover insights into dynamics and control of biological and medical systems. Our workshop will feature 5 professors each with 30 minute talks and 7 junior faculty each with 20 minute talks to gain an understanding for the state-of-the-art in regulating biological and medical systems. Furthermore, our panel discussion will focus on uncovering the problems that still remain to be solved in biological and medical systems and how studying these problems from a dynamics and control perspective may help to provide new insight into these problems. 
+## Abstract
+
+This workshop brings together researchers across disciplines to explore new insights into the dynamics and control of biological and medical systems. The program features five invited professors delivering 30-minute talks and seven junior faculty members presenting 20-minute talks, providing a comprehensive overview of the state-of-the-art in modeling, analysis, and regulation of biological and medical systems.  
+
+In addition, a panel discussion will focus on identifying open challenges in biological and medical systems and examining how perspectives from dynamics and control can contribute to addressing these problems and generating new scientific insight.
 
 
 ## Schedule
