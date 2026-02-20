@@ -40,8 +40,9 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 ---
 
 **10:30 – 11:00 AM**  
-**Rajesh Rajamani** (University of Minnesota)  
-*Home-Based Activity Monitoring in Parkinson’s Disease using Wearable Sensors*
+**Zoran Nenadic** (University of California, Irvine)  
+*TBA*
+
 
 ---
 
@@ -52,7 +53,7 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 ---
 
 **11:30 – 12:00 PM**  
-**Zoran Nenadic** (University of California, Irvine)  
+**Jorge Cortes** (University of California, San Diego)  
 *TBA*
 
 ---
@@ -92,26 +93,31 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 **Coffee Break**
 
 ---
+**3:30 – 4:00 PM** 
+**Rajesh Rajamani** (University of Minnesota)  
+*Home-Based Activity Monitoring in Parkinson’s Disease using Wearable Sensors*
 
-**3:30 – 3:50 PM**  
+---
+
+**4:00 – 4:20 PM**  
 **Lisa Li** (University of Michigan)  
 *Control theory as a modeling tool for neuroscience*
 
 ---
 
-**3:50 – 4:10 PM**  
+**4:20 – 4:40 PM**  
 **Marzia Cescon** (University of Houston)  
 *Learning-based glucose control algorithms for personalized treatments in Type 1 Diabetes*
 
 ---
 
-**4:10 – 4:30 PM**  
+**4:40 – 5:00 PM**  
 **Emily Pereira** (Texas Tech University)  
 *Control Theory and its Role in Treating Neurological Disease*
 
 ---
 
-**4:30 – 5:00 PM**  
+**5:00 – 5:30 PM**  
 **Panel Discussion and Closing Remarks**
 
 *More details to follow soon!*
