@@ -93,7 +93,7 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 **Coffee Break**
 
 ---
-**3:30 – 4:00 PM** 
+**3:30 – 4:00 PM**
 **Rajesh Rajamani** (University of Minnesota)  
 *Home-Based Activity Monitoring in Parkinson’s Disease using Wearable Sensors*
 
