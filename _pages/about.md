@@ -31,7 +31,7 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 ---
 
 **9:30 – 10:00 AM**  
-<img src="/ereed1272.github.io-Biological-and-Medical-SystemsACCWorkshop2026/images/abhi_singh_400x600.webp" alt="ShiNung Ching" style="width:50px;height:50px;border-radius:50%;vertical-align:middle;margin-right:10px;">
+<img src="/ereed1272.github.io-Biological-and-Medical-SystemsACCWorkshop2026/images/abhi_singh_400x600.webp" alt="ShiNung Ching" style="width:90px;height:90px;object-fit:cover;border-radius:50%;vertical-align:middle;margin-right:10px;">
 [**Abhyudai Singh**](https://www.ece.udel.edu/people/faculty/absingh/) (University of Delaware)  
 *System modeling and control of genetic circuits at the single-cell level*
 
@@ -43,20 +43,20 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 ---
 
 **10:30 – 11:00 AM**  
-**Zoran Nenadic** (University of California, Irvine)  
+[**Zoran Nenadic**](https://engineering.uci.edu/users/zoran-nenadic) (University of California, Irvine)  
 *Brain-Computer Interfaces for Human Gait Restoration*
 
 
 ---
 
 **11:00 – 11:30 AM**  
-**Nitin Sharma** (North Carolina State University)  
+[**Nitin Sharma**](https://bme.unc.edu/bme-person/nitin-sharma/) (North Carolina State University)  
 *Ultrasound Imaging Based Control of Hybrid Exoskeleton*
 
 ---
 
 **11:30 – 12:00 PM**  
-**Jorge Cortes** (University of California, San Diego)  
+[**Jorge Cortes**](http://terrano.ucsd.edu/jorge/) (University of California, San Diego)  
 *TBA*
 
 ---
@@ -69,25 +69,25 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 ### Lightning Talks
 
 **1:40 – 2:00 PM**  
-**Michaëlle Mayalu** (Stanford University)  
+[**Michaëlle Mayalu**](https://profiles.stanford.edu/michaelle-mayalu) (Stanford University)  
 *Control Theoretic Modeling of Dynamic Multiscale Biological Systems for Advancing Biomedical Therapies*
 
 ---
 
 **2:00 – 2:20 PM**  
-**Matthew F. Singh** (University of Illinois)  
+[**Matthew F. Singh**](https://stat.illinois.edu/directory/profile/mfsingh) (University of Illinois)  
 *Personalized Identification and Control for Human Neurostimulation*
 
 ---
 
 **2:20 – 2:40 PM**  
-**Chelsea Hu** (Texas A&M University)  
+[**Chelsea Hu**](https://engineering.tamu.edu/chemical/profiles/hu-chelsea.html) (Texas A&M University)  
 *Closed-loop optogenetic control in a microplate reader*
 
 ---
 
 **2:40 – 3:00 PM**  
-**Leila Bridgeman** (Duke University)  
+[**Leila Bridgeman**](https://mems.duke.edu/people/leila-bridgeman/) (Duke University)  
 *See, Plan, Cut: Control and Planning for Autonomous Robotic Laser Surgery*
 
 ---
@@ -97,25 +97,25 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 
 ---
 **3:30 – 4:00 PM**
-**Rajesh Rajamani** (University of Minnesota)  
+[**Rajesh Rajamani**](https://cse.umn.edu/me/rajesh-rajamani) (University of Minnesota)  
 *Home-Based Activity Monitoring in Parkinson’s Disease using Wearable Sensors*
 
 ---
 
 **4:00 – 4:20 PM**  
-**Lisa Li** (University of Michigan)  
+[**Lisa Li**](https://experts.umich.edu/11895-lisa-li) (University of Michigan)  
 *Control theory as a modeling tool for neuroscience*
 
 ---
 
 **4:20 – 4:40 PM**  
-**Marzia Cescon** (University of Houston)  
+[**Marzia Cescon**](https://www.me.uh.edu/faculty/cescon-marzia) (University of Houston)  
 *Learning-based glucose control algorithms for personalized treatments in Type 1 Diabetes*
 
 ---
 
 **4:40 – 5:00 PM**  
-**Emily Pereira** (Texas Tech University)  
+[**Emily Pereira**](https://www.depts.ttu.edu/ece/research/cpsrg/People/dr_emily_pereira.php) (Texas Tech University)  
 *Control Theory and its Role in Treating Neurological Disease*
 
 ---
