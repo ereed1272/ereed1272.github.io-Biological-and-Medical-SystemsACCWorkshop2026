@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "ACC 2026 Workshop: Dynamics and Control with Applications in Biological and Medical Systems"
-layout: default
 author_profile: false
 redirect_from: 
   - /about/
