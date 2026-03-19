@@ -40,7 +40,7 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 
 **10:30 – 11:00 AM**  
 **Zoran Nenadic** (University of California, Irvine)  
-*TBA*
+*Brain-Computer Interfaces for Human Gait Restoration*
 
 
 ---
