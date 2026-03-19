@@ -24,7 +24,7 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 
 **9:00 – 9:30 AM**  
 <img src="/images/ShiNung-Ching.jpg.webp" alt="ShiNung Ching" style="width:50px;height:50px;border-radius:50%;vertical-align:middle;margin-right:10px;">
-**ShiNung Ching** (Washington University in Saint Louis)  
+[**ShiNung Ching**](https://engineering.washu.edu/faculty/ShiNung-Ching.html) (Washington University in Saint Louis)  
 *Modeling, analysis and control of multi-scale brain dynamics*
 
 ---
