@@ -144,7 +144,7 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 
 ---
 
-**4:40 – 5:00 PM** 
+**4:40 – 5:00 PM**
 <img src="/ereed1272.github.io-Biological-and-Medical-SystemsACCWorkshop2026/images/emily_pereira.png" 
      alt="Emily Pereira" 
      style="width:90px;height:90px;object-fit:cover;border-radius:50%;vertical-align:middle;margin-right:10px;">
