@@ -156,4 +156,7 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 **5:00 – 5:30 PM**  
 **Panel Discussion and Closing Remarks**
 
-*More details to follow soon!*
+## Organizers
+
+The workshop is organized by Assistant Professor [Emily Pereira](https://www.depts.ttu.edu/ece/research/cpsrg/People/dr_emily_pereira.php) and Professor [Bijoy Ghosh](https://www.depts.ttu.edu/math/facultystaff/bio.php?id=273).
+
