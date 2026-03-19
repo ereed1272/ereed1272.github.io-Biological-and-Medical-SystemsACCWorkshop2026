@@ -2,7 +2,6 @@
 permalink: /
 title: "ACC 2026 Workshop: Dynamics and Control with Applications in Biological and Medical Systems"
 description: Co-organized by Emily A. Pereira and Bijoy Ghosh
-author_profile: false
 redirect_from: 
   - /about/
   - /about.html
