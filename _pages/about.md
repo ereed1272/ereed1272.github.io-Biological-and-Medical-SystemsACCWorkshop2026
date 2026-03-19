@@ -29,7 +29,8 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 ---
 
 **9:30 – 10:00 AM**  
-**Abhyudai Singh** (University of Delaware)  
+<img src="/ereed1272.github.io-Biological-and-Medical-SystemsACCWorkshop2026/images/abhi_singh_400x600.webp" alt="ShiNung Ching" style="width:50px;height:50px;border-radius:50%;vertical-align:middle;margin-right:10px;">
+[**Abhyudai Singh**](https://www.ece.udel.edu/people/faculty/absingh/) (University of Delaware)  
 *System modeling and control of genetic circuits at the single-cell level*
 
 ---
