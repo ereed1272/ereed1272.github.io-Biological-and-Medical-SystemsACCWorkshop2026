@@ -16,8 +16,16 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 
 ## Schedule
 
-**8:50 – 9:00 AM**  
+**8:20 – 8:30 AM**  
 **Opening Remarks**
+
+---
+**8:30 – 9:00 AM**
+<img src="/ereed1272.github.io-Biological-and-Medical-SystemsACCWorkshop2026/images/Rajamani_Rajesh500x750.jpg.webp" 
+     alt="Rajesh Rajamani" 
+     style="width:90px;height:90px;object-fit:cover;border-radius:50%;vertical-align:middle;margin-right:10px;">
+[**Rajesh Rajamani**](https://cse.umn.edu/me/rajesh-rajamani) (University of Minnesota)  
+*Home-Based Activity Monitoring in Parkinson’s Disease using Wearable Sensors*
 
 ---
 
@@ -117,16 +125,8 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 **Coffee Break**
 
 ---
-**3:30 – 4:00 PM**
-<img src="/ereed1272.github.io-Biological-and-Medical-SystemsACCWorkshop2026/images/Rajamani_Rajesh500x750.jpg.webp" 
-     alt="Rajesh Rajamani" 
-     style="width:90px;height:90px;object-fit:cover;border-radius:50%;vertical-align:middle;margin-right:10px;">
-[**Rajesh Rajamani**](https://cse.umn.edu/me/rajesh-rajamani) (University of Minnesota)  
-*Home-Based Activity Monitoring in Parkinson’s Disease using Wearable Sensors*
 
----
-
-**4:00 – 4:20 PM**
+**3:30 – 3:50 PM**
 <img src="/ereed1272.github.io-Biological-and-Medical-SystemsACCWorkshop2026/images/lisa_li.jpeg" 
      alt="Lisa Li" 
      style="width:90px;height:90px;object-fit:cover;border-radius:50%;vertical-align:middle;margin-right:10px;">
@@ -135,7 +135,7 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 
 ---
 
-**4:20 – 4:40 PM**
+**3:50 – 4:10 PM**
 <img src="/ereed1272.github.io-Biological-and-Medical-SystemsACCWorkshop2026/images/marzia_cescon.jpeg" 
      alt="Marzia Cescon" 
      style="width:90px;height:90px;object-fit:cover;border-radius:50%;vertical-align:middle;margin-right:10px;">
@@ -144,7 +144,7 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 
 ---
 
-**4:40 – 5:00 PM**
+**4:10 – 4:30 PM**
 <img src="/ereed1272.github.io-Biological-and-Medical-SystemsACCWorkshop2026/images/emily_pereira.png" 
      alt="Emily Pereira" 
      style="width:90px;height:90px;object-fit:cover;border-radius:50%;vertical-align:middle;margin-right:10px;">
@@ -153,7 +153,7 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 
 ---
 
-**5:00 – 5:30 PM**  
+**4:30 – 5:00 PM**  
 **Panel Discussion and Closing Remarks**
 
 ## Organizers
