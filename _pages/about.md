@@ -37,7 +37,6 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 ---
 
 **9:30 – 10:00 AM**  
-
 <img src="/ereed1272.github.io-Biological-and-Medical-SystemsACCWorkshop2026/images/Rajamani_Rajesh500x750.jpg.webp" alt="Rajesh Rajamani" style="width:90px;height:90px;object-fit:cover;border-radius:50%;vertical-align:middle;margin-right:10px;">
 [**Rajesh Rajamani**](https://cse.umn.edu/me/rajesh-rajamani) (University of Minnesota)  
 *Home-Based Activity Monitoring in Parkinson’s Disease using Wearable Sensors*
