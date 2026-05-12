@@ -66,7 +66,7 @@ In addition, a panel discussion will focus on identifying open challenges in bio
 **11:30 – 12:00 PM**
 <img src="/ereed1272.github.io-Biological-and-Medical-SystemsACCWorkshop2026/images/jorge_cortes.jpeg" alt="Jorge Cortés" style="width:90px;height:90px;object-fit:cover;border-radius:50%;vertical-align:middle;margin-right:10px;">
 [**Jorge Cortés**](http://terrano.ucsd.edu/jorge/) (University of California, San Diego)  
-*TBA*
+*Dimensionality Control in Hierarchical Brain Networks*
 
 ---
 
