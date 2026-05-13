@@ -13,6 +13,11 @@ This workshop brings together researchers across disciplines to explore new insi
 
 In addition, a panel discussion will focus on identifying open challenges in biological and medical systems and examining how perspectives from dynamics and control can contribute to addressing these problems and generating new scientific insight.
 
+## Location
+Grand Salon 3
+Hilton New Orleans Riverside 
+Two Poydras Street
+New Orleans, Louisiana 70130
 
 ## Schedule
 
